@@ -5,9 +5,6 @@ navbar_entries:
   - title: download
     url: download
 
-  - title: old website
-    url: https://bighummus69.github.io/old-site
-
   - title: updates
     url: updates
 
@@ -197,7 +194,7 @@ old_project_entries:
     desc: Make your own game site with these instructions made by me.
 
   - title: NEW GAME SITE
-    url: https://bighummus69.github.io/simplegimes
+    url: https://thynutwentboom.github.io/simplegimes
     desc: A sample game site which is designed to be easy to deploy (IN PROGRESS)
 
 
